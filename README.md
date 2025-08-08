@@ -1,14 +1,14 @@
-<h1 align="center">Hi, I'm Huy — Full-stack Engineer & Graphic Designer</h1>
+<h1 align="center">Hi, I'm Thanh — Full-stack Engineer & Graphic Designer</h1>
 <p align="center">
 Freelance • Next.js / Node.js / Go / Java • MongoDB / Postgres / MySQL • CI/CD • VPS • AWS • UI/Branding
 </p>
 
 <p align="center">
-  <a href="mailto:quangtrungthanh79@gmail.com">📩 Email</a> •
-  <a href="tel:+840822433379">📞 +84 0822 433 379</a> •
-  <a href="https://trungthanhdev.com">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/qtt-it/">💼 LinkedIn</a> •
-  <a href="https://cal.com/qtt-it/30min">🗓️ Book a call</a>
+  <a href="mailto:quangtrungthanh79@gmail.com" target="_blank" rel="noopener noreferrer">📩 Email</a> •
+  <a href="tel:+840822433379" target="_blank" rel="noopener noreferrer">📞 +84 0822 433 379</a> •
+  <a href="https://trungthanhdev.com" target="_blank" rel="noopener noreferrer">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/qtt-it/" target="_blank" rel="noopener noreferrer">💼 LinkedIn</a> •
+  <a href="https://cal.com/qtt-it/30min" target="_blank" rel="noopener noreferrer">🗓️ Book a call</a>
 </p>
 
 <p align="center">
@@ -34,31 +34,27 @@ Freelance • Next.js / Node.js / Go / Java • MongoDB / Postgres / MySQL • C
 
 ## 🚀 Selected Work
 - **NimbusBoard** — SaaS dashboard: auth, billing, analytics (Next.js + Postgres + AWS).  
-  Demo: *(coming soon)* • Code: [qtt-it/nimbus-board](https://github.com/qtt-it/nimbus-board)
+  Demo: *(coming soon)* • Code: <a href="https://github.com/qtt-it/nimbus-board" target="_blank" rel="noopener noreferrer">qtt-it/nimbus-board</a>
 
 - **OrderPulse API** — Express + MongoDB + Redis queue + Swagger (rate limit, queue, metrics).  
-  Code: [qtt-it/order-pulse-api](https://github.com/qtt-it/order-pulse-api)
+  Code: <a href="https://github.com/qtt-it/order-pulse-api" target="_blank" rel="noopener noreferrer">qtt-it/order-pulse-api</a>
 
 - **MediaForge** — Go + gRPC + S3 (presigned upload, thumbnails, streaming).  
-  Code: [qtt-it/media-forge](https://github.com/qtt-it/media-forge)
+  Code: <a href="https://github.com/qtt-it/media-forge" target="_blank" rel="noopener noreferrer">qtt-it/media-forge</a>
 
 - **CatalogCraft** — Java Spring Boot + Postgres + Flyway + OpenAPI (CQRS-lite).  
-  Code: [qtt-it/catalog-craft](https://github.com/qtt-it/catalog-craft)
+  Code: <a href="https://github.com/qtt-it/catalog-craft" target="_blank" rel="noopener noreferrer">qtt-it/catalog-craft</a>
 
 - **TuskStack (Infra)** — Docker Compose + Traefik/Nginx + GHCR → deploy VPS.  
-  Code: [qtt-it/tusk-stack](https://github.com/qtt-it/tusk-stack)
+  Code: <a href="https://github.com/qtt-it/tusk-stack" target="_blank" rel="noopener noreferrer">qtt-it/tusk-stack</a>
 
 - **PixelTusk UI** — UI kit (Figma export) + Tailwind components.  
-  Code: [qtt-it/pixel-tusk-ui](https://github.com/qtt-it/pixel-tusk-ui)
+  Code: <a href="https://github.com/qtt-it/pixel-tusk-ui" target="_blank" rel="noopener noreferrer">qtt-it/pixel-tusk-ui</a>
 
 ---
 
 ## 🎨 Design Shots
-<p>
-  <img src="assets/design-1.png" width="220" alt="Brand concept 01"/>
-  <img src="assets/design-2.png" width="220" alt="Dashboard UI 02"/>
-  <img src="assets/design-3.png" width="220" alt="Landing hero 03"/>
-</p>
+
 
 ---
 
@@ -70,9 +66,9 @@ Freelance • Next.js / Node.js / Go / Java • MongoDB / Postgres / MySQL • C
 
 ### 📬 Availability
 ✅ Open for freelance / part-time.  
-**Hire me:** [quangtrungthanh79@gmail.com](mailto:quangtrungthanh79@gmail.com) • **+84 0822 433 379**  
-**Portfolio:** [trungthanhdev.com](https://trungthanhdev.com)  
-**LinkedIn:** [linkedin.com/in/qtt-it](https://www.linkedin.com/in/qtt-it/)
+**Hire me:** <a href="mailto:quangtrungthanh79@gmail.com" target="_blank" rel="noopener noreferrer">quangtrungthanh79@gmail.com</a> • **+84 0822 433 379**  
+**Portfolio:** <a href="https://trungthanhdev.com" target="_blank" rel="noopener noreferrer">trungthanhdev.com</a>  
+**LinkedIn:** <a href="https://www.linkedin.com/in/qtt-it" target="_blank" rel="noopener noreferrer">linkedin.com/in/qtt-it</a>
 
 ---
 
